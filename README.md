@@ -40,4 +40,3 @@ const anmol = {
 };
 ```
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juninhoww2&theme=algolia&show_icons=true)
