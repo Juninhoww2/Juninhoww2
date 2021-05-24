@@ -19,7 +19,7 @@ TypeScript is a superset of JavaScript which most important adds Types to our va
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "php"],
+    code: ["Javascript", "Typescript", "Java", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
@@ -31,7 +31,7 @@ const anmol = {
             js: ["node", "express", "yarn"],
             python: ["flask"]
         },
-        devOps: [ "Docker🐳",  "Nginx"],
+        devOps: [ "Docker🐳",  "Nginx", "Next"],
         databases: ["Firebase", "Vercel"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
