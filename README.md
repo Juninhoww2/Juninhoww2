@@ -16,27 +16,4 @@ You can speak to me in Portuguese, English and a little Japanese.
 TypeScript is a superset of JavaScript which most important adds Types to our variables like void, string or boolean.. Yeah, Javascript doesn’t suck like some years ago!
 
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["React", "Angular", "Ionic"],
-            css: ["materialize", "vuetify", "bootstrap", "Sass", "Scss"]
-        },
-        backEnd: {
-            js: ["node", "express", "yarn"],
-            python: ["flask"]
-        },
-        devOps: [ "Docker🐳",  "Nginx", "Next"],
-        databases: ["Firebase", "Vercel"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
 
