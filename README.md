@@ -6,10 +6,10 @@
 
 <h2>(Juninhoww2)👨🏻‍💻, I'm Juninhoww2 FullStack developer and Open source contributor. </h2>
 <p><em>Software Engineer 
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
 
 </em></p>
-https://img.shields.io/badge/Valt-FFFFFF?style=for-the-badge&logo=vault&logoColor=black
+
 
 
 
