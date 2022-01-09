@@ -9,6 +9,8 @@
   https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 </em></p>
+https://img.shields.io/badge/Valt-FFFFFF?style=for-the-badge&logo=vault&logoColor=black
+
 
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alexandre-da-cruz-filho-7496a01a5/)
