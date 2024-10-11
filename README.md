@@ -16,7 +16,9 @@
 <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
 <code><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
 
- [Discord]()
+
+  <a href="https://www.linkedin.com/in/devjos%C3%A9-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 You can speak to me in Portuguese, English, Espanhol and a little Japanese
 TypeScript is a superset of JavaScript which most important adds Types to our variables like void, string or boolean.. Yeah, Javascript doesn’t suck like some years ago!
 
