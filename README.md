@@ -4,7 +4,7 @@
 🎉 Welcome to my GitHub profile!
 
 
-<h2>👨🏻‍💻, I'm Juninhoww2 FullStack developer, Open source contributor, Android Kernel and Linux enthusiastic. </h2>
+<h2>👨🏻‍💻, I'm FullStack developer, Open source contributor, Android Kernel and Linux enthusiastic. </h2>
 <p><em>Software Engineer 
 
 
